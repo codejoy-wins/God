@@ -153,13 +153,15 @@ const More = ()=> {
   return (
     <div>
       <h3>"You're blowing their whole scam out of the water" - Jonathan Adampants</h3>
+      
       <img src={jordan} className="savior"></img>
       <img src={asha} className="savior"></img>
-      <img src={adam} className="savior"></img>
+      <a href="https://youtu.be/xYT6rRliNjs"><img src={adam} className="savior"></img></a>
       <img src={jesus} className="savior"></img>
       <img src={good} className="savior"></img>
-      <img src={alan} className="savior"></img>
-      <img src={sad} className="savior"></img>
+      <a href="https://youtu.be/K5wJK9kcK_g"><img src={alan} className="savior"></img></a>
+      <a href="https://youtu.be/Gw1I7fqmxmA"><img src={sad} className="savior"></img></a>
+      
 
     </div>
   )
