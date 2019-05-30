@@ -155,7 +155,7 @@ const More = ()=> {
       <h3>"You're blowing their whole scam out of the water" - Jonathan Adampants</h3>
       
       <img src={jordan} className="savior"></img>
-      <img src={asha} className="savior"></img>
+      <a href="https://youtu.be/fgReurGebJg"><img src={asha} className="savior"></img></a>
       <a href="https://youtu.be/xYT6rRliNjs"><img src={adam} className="savior"></img></a>
       <img src={jesus} className="savior"></img>
       <img src={good} className="savior"></img>
