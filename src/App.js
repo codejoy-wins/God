@@ -159,7 +159,7 @@ const More = ()=> {
       <a href="https://youtu.be/xYT6rRliNjs"><img src={adam} className="savior"></img></a>
       <img src={jesus} className="savior"></img>
       <img src={good} className="savior"></img>
-      <a href="https://youtu.be/K5wJK9kcK_g"><img src={alan} className="savior"></img></a>
+      <a href="https://youtu.be/nhS71NrmfTw"><img src={alan} className="savior"></img></a>
       <a href="https://youtu.be/Gw1I7fqmxmA"><img src={sad} className="savior"></img></a>
       
 
