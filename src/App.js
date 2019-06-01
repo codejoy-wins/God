@@ -154,8 +154,8 @@ const More = ()=> {
     <div>
       <h3>"You're blowing their whole scam out of the water" - Jonathan Adampants</h3>
       <a href="https://youtu.be/avInTfCd92Q"><img src={jordan} className="savior"></img></a>
-      <a href="https://youtu.be/fgReurGebJg"><img src={asha} className="savior"></img></a>
       <a href="https://youtu.be/xYT6rRliNjs"><img src={adam} className="savior"></img></a>
+      <a href="https://youtu.be/fgReurGebJg"><img src={asha} className="savior"></img></a>
       <img src={jesus} className="savior"></img>
       <img src={good} className="savior"></img>
       <a href="https://youtu.be/nhS71NrmfTw"><img src={alan} className="savior"></img></a>
