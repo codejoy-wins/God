@@ -80,11 +80,6 @@ function Xxxxp({todo, index, key}){
 function App() {
   const [todos, setTodos] = useState([
     {
-      text: 'Treat others how you want to be treated',
-      isCompleted: false,
-      isHighlighted: false,
-    },
-    {
       text: 'Love one another',
       isCompleted: false,
       isHighlighted: false,
